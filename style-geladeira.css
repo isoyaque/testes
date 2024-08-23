@@ -533,6 +533,7 @@ footer img {
 
     .geladeira {
         width: 95%;
+        overflow-x: hidden;
     }
 
     input[type=range] {
